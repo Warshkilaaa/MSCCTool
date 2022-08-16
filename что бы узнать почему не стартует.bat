@@ -1,0 +1,2 @@
+python mscctool.py
+pause
